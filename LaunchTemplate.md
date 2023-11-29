@@ -216,3 +216,6 @@ Number of Instance : 1
 43. Click the `launch Instance from template` button at the bottom.
 44. Go to `Instance Menu` and show recently created EC2 instance.
 45. Copy EC2's `Public IP`, paste it in a browser and show `nginx` webpage with custom image.
+
+
+Note: We created a new version of the template, which was created from scratch, by calling it a modified template, and we created a new instance in each version we created.
